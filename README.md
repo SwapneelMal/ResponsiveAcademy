@@ -1,2 +1,2 @@
 # ResponsiveAcademy
-Responsive as fuk
+Hamburgering Responsive!
